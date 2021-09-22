@@ -16,3 +16,8 @@
 ## NB!!!!
 
 Remember to do the second task individually should take like 30 mins
+
+##TODO
+- Fix Task 1.1 List
+- Do the actual plots
+- Clean up messy comments
