@@ -3,6 +3,10 @@
 [Assignment Link](https://oslomet.instructure.com/courses/21783/assignments/49829)
 ![Asignment picture](tasktext.png)
 
+
+Ulrik Bineric Proof
+![Binericpicture](binericproof.png)
+
 [Lab Repo](https://github.com/umaimehm/Intro_to_AI_2021)
 
 [Numpy Manual](https://numpy.org/doc/stable/)
